@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "ed77d6be8934dafd1035aed0",
+  "owner": "mvdccejnx",
+  "repo": "page-fd6d092d72ffca2170bb251b",
+  "title": "佛系云(foxicloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "fd6d092d72ffca2170bb251b",
+      "a": "佛系云(foxicloud)",
+      "b": "2027官方最新地址导航",
+      "entity": "佛系云(foxicloud)",
+      "brand": "佛系云(foxicloud)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "71fd37a53c2d0b58e041ad312d96f68155401b5269bab58de1fd041be056d4bc",
+      "content": {
+        "primary_entity": "佛系云(foxicloud)",
+        "keyword1": "佛系云(foxicloud)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，导入订阅后即可连接使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐与客户端，开启稳定的跨境网络体验。",
+          "AI_CLOSING_TITLE": "轻松上手佛系云",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档选择，流量从每月 100GB 到 1000GB，设备支持从 3 台到 20 台。旗舰版含 IPLC 专线游戏加速，团队版提供 VIP 高带宽节点与企业定制路由。",
+          "AI_FEATURES_INTRO": "围绕套餐选择、设备需求与订阅周期，整理三项实用信息。",
+          "AI_FEATURES_TITLE": "核心特点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 支持 3 台设备，旗舰版每月 300GB 支持 5 台，团队版每月 1000GB 支持 20 台。",
+          "AI_FEATURE_TEXT_2": "基础版解锁基础流媒体，旗舰版支持全节点原生流媒体与 IPLC 专线游戏加速。",
+          "AI_FEATURE_TEXT_3": "按年付更划算，基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。",
+          "AI_FEATURE_TITLE_1": "套餐梯度清晰",
+          "AI_FEATURE_TITLE_2": "线路按需升级",
+          "AI_FEATURE_TITLE_3": "周期灵活可选",
+          "AI_GUIDE_INTRO": "三步完成服务选择、适配确认与订阅配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "佛系云提供基础版、旗舰版与团队版三档加速方案，流量覆盖每月 100GB 至 1000GB，支持 3 至 20 台设备同时在线。旗舰版含 IPLC 专线游戏加速，团队版支持企业定制路由。",
+          "AI_HERO_SUBTITLE": "三档套餐，按需选择设备与流量",
+          "AI_HIGHLIGHT_1": "每月 100GB 至 1000GB 流量梯度",
+          "AI_HIGHLIGHT_2": "3 至 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "年付低至 ¥150 起",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版适合多设备与流媒体需求，团队版适合高带宽与多设备场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量和设备数量，在基础版、旗舰版与团队版中选定套餐。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端适配要求，参考对应客户端的配置文档。",
+          "AI_STEP_TEXT_3": "将订阅信息导入所选客户端，完成连接配置后即可使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "佛系云套餐导航",
+          "AI_FAQ_ANSWER_1": "按同时在线设备数量选择：3 台以内可选基础版，5 台左右建议旗舰版，设备较多或需要团队共享时考虑团队版，再结合月流量是否够用做最终决定。",
+          "AI_FAQ_ANSWER_2": "订阅信息一般在购买后由服务方提供，将订阅地址或配置导入对应客户端即可，客户端不同操作步骤略有差异，可参照客户端自带的使用文档完成导入。",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台同时在线，超出数量时可能需要升级套餐或调整使用设备。",
+          "AI_FAQ_ANSWER_4": "月付灵活适合短期使用，年付折算到每月价格更低，长期使用可以优先考虑年付方案，但建议先按月确认线路和速度是否符合预期。",
+          "AI_FAQ_ANSWER_5": "优先确认当前套餐的节点线路能否满足流媒体或游戏需求：需要游戏加速可考虑旗舰版 IPLC 专线，通用流媒体基础版即可解锁基础内容。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "佛系云(foxicloud)套餐怎么选？",
+          "AI_FAQ_QUESTION_2": "订阅信息如何导入客户端？",
+          "AI_FAQ_QUESTION_3": "同时在线设备数量有限制吗？",
+          "AI_FAQ_QUESTION_4": "月付和年付有什么区别？",
+          "AI_FAQ_QUESTION_5": "流媒体和游戏加速该选哪个套餐？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ssjws.cn",
+    "host": "ssjws.cn"
+  },
+  "file_hashes": {
+    "index.html": "81251772400b52dfa065617148498d1d943c2aa67101140912c36388b90385e1",
+    "sitemap.xml": "de9e0fe408560ad4e1bc79aea939835e0161951a2dd9a196a68d12b3ee8e52fa",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7d4b2b990c2d7a9f987c2064cc9fbc8544c125f3cd2b699a66a44d45efbc8ffe",
+    "robots.txt": "c294442e63f9a879f8e5dbdcaa80b39c5a4465bb3710efe0675e29077d8907d8",
+    "a19bef66e7f68c76e0d5b4f0060ebf8e.txt": "93ccd3a6d0ca00b1ebae12ba3961bd415a688e6d965893d03aa0681234cb8d3a"
+  },
+  "revision": "5778a9b84c9807a9b87f75d09c1ae445d17afcba691a5d35e9f9b594da01a7dc"
+}
